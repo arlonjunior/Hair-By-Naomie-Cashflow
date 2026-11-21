@@ -1,0 +1,10 @@
+# Local secrets & environment
+.streamlit/secrets.toml
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# OS / IDE files
+.DS_Store
+.idea/
